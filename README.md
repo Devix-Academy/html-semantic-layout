@@ -1,4 +1,4 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Input y Textarea
+# Ejercicios para poner a prueba tus conocimientos de la lección: Semantic layout
 
 **¡Desafía tus habilidades HTML!**
 
